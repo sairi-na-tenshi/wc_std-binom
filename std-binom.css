@@ -1,9 +1,9 @@
-i\:binom {
+std\:binom {
 	display: block;
 	margin: -.5em 0;
 }
 
-i\:binom:after {
+std\:binom:after {
 	content: ".";
 	display: block;
 	clear: both;
