@@ -3,4 +3,5 @@ std\:binom-right {
 	width: 45%;
 	min-width: 200px;
 	margin-right: -1%;
+	vertical-align: top;
 }
